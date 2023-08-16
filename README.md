@@ -33,4 +33,10 @@ consider you travel to another country! and you don't understand their language,
 
 <br>
 
+*  remember to create a `.env` file and push your openai api key in that. `OPENAI_API_KEY = "API KEY"`
+
+<br>
+
 That's it, now run the `ocr.py` file and give your image to the function.
+
+
